@@ -197,5 +197,6 @@ h3{
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
 }
-.good{font-family: 'Merriweather', serif;
+.good{font-family: 'Montserrat', sans-serif;
+    
 }
